@@ -1,0 +1,63 @@
+.title
+{
+  text-align: center;
+  background-color: #C4DDFF;
+}
+.co
+{
+  background-color: #A5BECC;
+  text-align: center;
+}
+.parta
+{
+  background-color: #040303;
+  text-align: center;
+  color: white;
+  width: 25%;
+  position: relative;
+  left: 420px;
+}
+
+.partb
+{
+  background-color: #040303;
+  text-align: center;
+  color: white;
+  width: 25%;
+  position: relative;
+  left: 420px;
+}
+.partc
+{
+  background-color: #040303;
+  text-align: center;
+  color: white;
+  width: 25%;
+  position: relative;
+  left: 420px;
+}
+.ii
+{
+  position: relative;
+  left: 20px;
+}
+.iipartc
+{
+  position: relative;
+  left: 20px;
+}
+.partaquestions
+{
+  position: relative;
+  left: 25px;
+}
+.partcquestions
+{
+  position: relative;
+  left: 25px;
+
+}
+.submit:hover
+{
+  color: #CCD1E4;
+}
